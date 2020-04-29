@@ -15,7 +15,7 @@
 
 # Introduction
 
-<p align= "justify"> In this project, the web scraping pipeline framework is employed to organize the working process (see Image 1). The framework is carried out in three phases: setup, acquisition, and processing. In the setup phase, an object is defined, which is to predict bestselling books with maximum accuracy and minimal time. The Waterstones website will be used for this task. In the acquisition phase, data will be scraped from the Waterstones website, then parsed and extracted using the web scraping tools Beautiful Soup and Selenium. The purpose is to change the data into a usable format. In the processing phase, data will be processed in two main stages: data understating and data preparation.</p>
+<p align= "justify"> In this project, the web scraping pipeline framework is employed to organize the working process (see Image 1). The framework is carried out in three phases: setup, acquisition, and processing. In the setup phase, an objective is defined, which is to predict bestselling books with maximum accuracy and minimal time. The Waterstones website will be used for this task. In the acquisition phase, data will be scraped from the Waterstones website, then parsed and extracted using the web scraping tools Beautiful Soup and Selenium. The purpose is to change the data into a usable format. In the processing phase, data will be processed in two main stages: data understating and data preparation.</p>
 
 <img src='Pipeline_Framework.png'>
            
