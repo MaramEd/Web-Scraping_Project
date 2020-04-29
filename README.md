@@ -10,8 +10,8 @@
 - [Acquisition Phase](#Acquisition-Phase)
 - [Processing Phase](#Processing-Phase)
 - [Conclusion](#Conclusion)
-- [References](#References)
-- [Kaggle Links](#Kaggle-Links)
+- [References](#References:)
+- [Kaggle Links](#Kaggle-Links:)
 
 # Introduction
 
@@ -67,9 +67,14 @@ In this section, the data is being split into train and test datasets to prepare
 # Conclusion
 <p align="justify"> Web scraping is a crucial skill to acquire in today’s data driven world. Collecting large datasets is fundamental to big data analytics, artificial intelligence, and machine learning. With the explosion of online information, data is becoming much easier to access than ever before using web scraping tools and skills. </p>
 
-## References
+## References:
 
 - <p style='text-align: justify;'> Laetsch, T., 2020. Web Scraping With Python, accessed on 19 Mar, 2020:(https://campus.datacamp.com/courses/web-scraping-with-python/introduction-to-html?ex=1).</p>
 
 
 - <p style='text-align: justify;'> Wadge, J., 2015. Eidlitz: Baroque Libraries, accessed on 19 Mar, 2020:(https://www.justinwadge.com/Architecture/Eidlitz-Baroque-Libraries).</p>
+
+## Kaggle Links:
+
+- <a href="https://www.kaggle.com/maramedrees/a-datum-walked-into-a-bookstore" target="_blank">Dataset</a>
+- <a href="https://www.kaggle.com/maramedrees/a-datum-walked-into-a-bookstore-starter-code?scriptVersionId=30473876" target="_blank">Kernal</a>
