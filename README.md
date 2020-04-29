@@ -10,8 +10,8 @@
 - [Acquisition Phase](#Acquisition-Phase)
 - [Processing Phase](#Processing-Phase)
 - [Conclusion](#Conclusion)
-- [References](#References:)
-- [Kaggle Links](#Kaggle-Links:)
+- [References](#References)
+- [Kaggle Links](#Kaggle-Links)
 
 # Introduction
 
